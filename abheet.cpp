@@ -30,8 +30,8 @@ void AI()
 			y = std::get<1>(coordinates);
 			
 			// make code snippet where an X is placed at (x, y)
-            // board[x][y]='X';
-            //showboard(board);
+           		 // board[x][y]='X';
+           		 //showboard(board);
 
 			if(flagFirstMove == -1); // This runs ONLY once. First move is by human always.
 			{
